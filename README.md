@@ -7,7 +7,7 @@
 <p>ECE4300 Human–Computer Interaction · Team Defected Robot · Windows</p>
 
 <p>
-  <a href="media/gameplay-demo.mp4"><strong>Watch the gameplay demo</strong></a>
+  <a href="media/gameplay-demo.mp4"><strong>Gameplay video (MP4)</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/Penguinblast/protocol-ironwall/releases"><strong>Download the Windows build</strong></a>
   &nbsp;·&nbsp;

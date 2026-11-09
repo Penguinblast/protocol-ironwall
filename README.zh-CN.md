@@ -6,7 +6,7 @@
 
 <p>ECE4300 人机交互 · Defected Robot 团队 · Windows</p>
 
-<p><a href="media/gameplay-demo.mp4">观看演示</a> · <a href="https://github.com/Penguinblast/protocol-ironwall/releases">下载试玩版</a> · <a href="README.md">English</a></p>
+<p><a href="media/gameplay-demo.mp4">演示视频（MP4）</a> · <a href="https://github.com/Penguinblast/protocol-ironwall/releases">下载试玩版</a> · <a href="README.md">English</a></p>
 
 <a href="media/poster.jpg"><img src="media/poster.jpg" alt="Protocol: IronWall 项目海报，展示机甲、指挥模式和行动模式" width="500"></a>
 
